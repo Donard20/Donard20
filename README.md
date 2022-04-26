@@ -10,7 +10,7 @@ Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning W
 - 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
   
 
-- 🌱 I’m currently learning Python from DICT,  Excel(Vlookup,Macro,VBA), Swift, Obejective-C, and Back-End Programming.  
+- 🌱 I’m currently learning Python from DICT,  Excel(Vlookup,Macro,VBA), Swift, Obejctive-C, and Back-End Programming.  
   
 
 - ❓ Ask me about anything related to Designing stack and related technologies  
@@ -46,7 +46,7 @@ Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning W
 <a href="https://linkedin.com/in/engrnard" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/engr.nard" target="_blank">
+<a href="https://www.facebook.com/engr.donardazura" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
