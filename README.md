@@ -86,5 +86,3 @@ Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning W
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
