@@ -10,7 +10,7 @@ Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning W
 - 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
   
 
-- 🌱 I’m currently learning Python from DICT,  Excel(Vlookup,Macro,VBA), Swift, Obejctive-C, and Back-End Programming.  
+- 🌱 I’m currently learning Python from DICT.  
   
 
 - ❓ Ask me about anything related to Designing stack and related technologies  
