@@ -7,7 +7,7 @@
 Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning Web Development and Mobile Development 🚀</div>  
   
 
-- 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
+- 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view in [Eskwelabs](https://www.eskwelabs.com/)). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
   
 
 - 🌱 I’m currently learning Python from DICT.  
