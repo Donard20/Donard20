@@ -8,7 +8,7 @@
   
 
 <!-- ### <div align="center">I'm Donard👷. -->
-### <div align="center">Aspiring to be a Data Analyst/Data Scientist👨‍💻 Interested on learning Web Development and Mobile Development 🚀</div>  
+### <div align="center">🚀I'm a web - based learning hobbyist striving to pursue my future career, improve my skills and knowledge in IT Field.
   
 
 - 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
@@ -17,10 +17,10 @@
 - 🌱 I’m currently learning Python from DICT.  
   
 
-- ❓ Ask me about anything related to Designing stack and related technologies  
+- 💻 I also want to learn Web Development and Mobile Development.  
   
 
-- ⚡ Fun fact: I used to be a Graphic Designer in a famous restaurant chain  in the Philippines in 2010-2012.  
+- ⚡I used to be a Graphic Designer in a famous restaurant chain  in the Philippines in 2010-2012.  
   
 
 <br/>  
