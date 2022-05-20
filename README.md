@@ -1,13 +1,16 @@
+<div align="center">
+<img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" align="center" style="width: 30%" />
+</div>  
+
 <!-- <div align="center">
-<img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" align="center" style="width: 50%" />
+<img src="https://github.com/Donard20/Donard20/blob/main/Hello!%20Its%20me%20Donard!%20(1).gif" align="center" style="width: 40%" />
 </div>   -->
 
-<div align="center">
-<img src="https://github.com/Donard20/Donard20/blob/main/Hello!%20Its%20me%20Donard!%20(1).gif" align="center" style="width: 50%" />
-</div>  
-  
+<!-- <align="right">
+<img src="https://github.com/Donard20/Donard20/blob/main/Hello!%20Its%20me%20Donard!%20(1).gif" width=40% height=40% > -->
 
-<!-- ### <div align="center">I'm Donard👷. -->
+
+# <div align="center">Hi! I'm Donard👷
 ### <div align="center">🚀I'm a web - based learning hobbyist striving to pursue my future career, improve my skills and knowledge in IT Field.
   
 
