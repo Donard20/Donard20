@@ -14,13 +14,13 @@
 ### <div align="center">🚀I'm a web - based learning hobbyist striving to pursue my future career, improve my skills and knowledge in IT Field.
   
 
-- 🔭 I enroll in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/). Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation.  
+- 🔭 Fun fact: I enrolled in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/) last April 2022. Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation but I will pursue my career in Mobile Development especially in iOS Environment.
   
 
-- 🌱 I’m currently learning Python from DICT.  
+- 🌱 I’m currently learning iOS Development (Swift).  
   
 
-- 💻 I also want to learn Web Development and Mobile Development.  
+- 💻 I study Python from DICT to be familiarized the coding environment and easily adjust in Swift Coding.  
   
 
 - ⚡I used to be a Graphic Designer in a famous restaurant chain  in the Philippines in 2010-2012.  
@@ -113,12 +113,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Donard20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Donard20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <!-- <br/>   -->
 
-![Metrics](https://metrics.lecoq.io/Donard20?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
- 
+<!-- ![Metrics](https://metrics.lecoq.io/Donard20?template=classic&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
+  -->
+<div align="center">
+![Metrics](https://metrics.lecoq.io/Donard20?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
+  </div>
 
 ## Connect with me  
 <div align="center">
@@ -143,14 +146,14 @@
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
             <a href="https://www.buymeacoffee.com/engrnard" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
                 />
             </a></div>
-<br />
+<br /> -->
 
 ## View my repositories 👇
 
