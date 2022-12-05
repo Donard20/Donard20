@@ -11,16 +11,16 @@
 
 
 # <div align="center">Hi! I'm Donard👷
-### <div align="center">🚀I'm a web - based learning hobbyist striving to pursue my future career, improve my skills and knowledge in IT Field especially in Mobile Development Technology.
+### <div align="center">🚀I'm a web - based learning hobbyist striving to pursue my future career, improve my skills and knowledge in IT Field especially in IT Field.
   
 
 - 🔭 Fun fact: I enrolled in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/) last April 2022. Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation but I will pursue my career in Cloud specially in AWS Solution Architect Associate Journey and be certified.
   
 
-<!-- - 🌱 I’m currently learning iOS Development (Swift) using Xcode(SDK).   -->
+- 🌱 I’m currently learning Python Projects for Beginners A Ten-Week Bootcamp Approach to Python Programming by Connor P. Milliken.  
   
 
-- 💻 I study Python from DICT to be familiarized the coding environment and easily adjust in Swift Coding.  
+- 💻 I study Python from DICT to be familiarized the coding environment.  
   
 
 - ⚡I used to be a Graphic Designer in a famous restaurant chain  in the Philippines in 2010-2012.  
