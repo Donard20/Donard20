@@ -17,7 +17,7 @@
 - 🔭 Fun fact: I enrolled in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/) last April 2022. Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation but I will pursue my career in Cloud specially in AWS Solution Architect Associate Journey and be certified.
   
 
-- 🌱 I’m currently learning Python Projects for Beginners A Ten-Week Bootcamp Approach to Python Programming by Connor P. Milliken.  
+- 🌱 I’m currently learning Java by Mosh Hamedani in Code with Mosh.  
   
 
 - 💻 I study Python from DICT to be familiarized the coding environment.  
