@@ -17,7 +17,7 @@
 - 🔭 Fun fact: I enrolled in  [Data Analyst Bootcamp Cohort 5](https://drive.google.com/file/d/1u9na3PqvbnCGCoT7aWUCRPaPkN2TSPPr/view) in [Eskwelabs](https://www.eskwelabs.com/) last April 2022. Learned how to clean the data, data visualization, storytelling and effective data-driven recommendation but I will pursue my career in IT.
   
 
-- 🌱 I’m currently learning Full Stack Java developer - Java + JSP + Restful WS + Spring in Udemy.  
+- 🌱 I’m currently learning iOS Development in Udemy.  
   
 
 - 💻 I study Python from DICT to be familiarized the coding environment.  
